@@ -2,6 +2,8 @@
 
 Auto login PIM wifi is a mini Python program for one click to login PIM ( Panyapiwat Institute of Management ) wifi.
 
+สำหรับภาษาไทยสามารถอ่านได้ [ที่นี่](https://github.com/qaz74107410/autologin-wifi-pim/blob/master/READMEth.md)
+
 ## Installation
 
 Require [python](https://www.python.org/downloads/) to be installed.
